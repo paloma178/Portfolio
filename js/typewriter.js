@@ -7,7 +7,7 @@ var typewriter = new Typewriter(app, {
 typewriter.typeString('Digital Marketer')
     .pauseFor(500)
     .deleteAll()
-    .typeString('Wed Desiner')
+    .typeString('Web Designer')
     .pauseFor(500)
     .deleteAll()
     .typeString('Project Manager')
