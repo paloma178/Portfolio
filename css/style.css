@@ -181,6 +181,9 @@ button.primary_btn {
     font-size: 30px;
     line-height: 34px
   }
+  #app {
+    line-height: 40px;
+  }
 }
 
 @media (max-width: 991px) {
