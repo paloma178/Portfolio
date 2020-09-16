@@ -463,7 +463,7 @@ button.primary_btn {
 }
 
 .home_banner_area {
-  background: url(../img/banner/home-banner2.png) no-repeat top center;
+  /* background: url(../img/banner/home-banner.png) no-repeat top center; */
   background-position: center;
   background-size: cover;
   min-height: 890px
@@ -593,7 +593,6 @@ button.primary_btn {
 
 .banner_area .banner_inner .banner_content {
   margin-left: 50px;
-  margin-top: 40px
 }
 
 @media (max-width: 991px) {
@@ -855,6 +854,11 @@ button.primary_btn {
   .blog_categorie_area {
     padding-top: 120px;
     padding-bottom: 120px
+  }
+
+  .banner_content {
+    padding-top: 150px!important;
+    padding-bottom: 0px!important
   }
 }
 
