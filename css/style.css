@@ -18,6 +18,12 @@ h1, h2, h3, h4, h5, h6 {
   margin: 50px 0
 }
 
+.img-fluid-2 {
+  max-width: 150%;
+  height: auto;
+  padding-right: 15%;
+}
+
 @media (min-width: 600px) {
   .section-margin {
     margin: 80px 0
