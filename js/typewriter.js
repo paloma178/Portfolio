@@ -13,4 +13,7 @@ typewriter.typeString('Digital Marketer')
     .typeString('Project Manager')
     .pauseFor(500)
     .deleteAll()
+    .typeString('Marketing Cloud Specialist')
+    .pauseFor(500)
+    .deleteAll()
     .start();
